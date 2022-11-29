@@ -52,6 +52,7 @@ table {
 }
 * {
   box-sizing: border-box;
+  outline: 0;
 }
 body {
   font-weight: 300;
